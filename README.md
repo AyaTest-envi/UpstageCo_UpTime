@@ -1,4 +1,4 @@
-# Upstage Track — Working Prototype
+# Upstage Co UpTime — Attendance and Break Tracker Working Prototype
 
 ## What this actually is
 
